@@ -1,7 +1,7 @@
 # reading-stack
 
 ## LLM
-  - LLM from scratch book
+  - [LLM from scratch book](https://github.com/rasbt/LLMs-from-scratch)
   - [LLM serving in a week](https://github.com/skyzh/tiny-llm)
   - [Groq LPU](https://groq.com/blog/the-groq-lpu-explained)
   - [Visual guide to quantization and more](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
