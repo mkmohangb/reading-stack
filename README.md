@@ -1,5 +1,11 @@
 # reading-stack
 
+## Programming
+  - [Many hard leetcode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
+
+## DL
+  - [Book: Deep Learning with Python](https://deeplearningwithpython.io/chapters/)
+
 ## LLM
   - [LLM from scratch book](https://github.com/rasbt/LLMs-from-scratch)
   - [LLM serving in a week](https://github.com/skyzh/tiny-llm)
@@ -10,6 +16,7 @@
 
 ## Embeddings
   - [LIMIT - theoretical limitations of embedding based retrieval](https://github.com/google-deepmind/limit)
+  - [Will Amazon S3 vectors kill vector databases - or save them?](https://medium.com/@zilliz_learn/will-amazon-s3-vectors-kill-vector-databases-or-save-them-1ab3ab5c1c96)
     
 ## Python
   - [First course on DS in Python](https://donsheehy.github.io/datastructures/fullbook.pdf)
