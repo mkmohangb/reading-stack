@@ -3,6 +3,9 @@
 ## Programming
   - [Many hard leetcode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 
+## Linear Algebra
+  - [Book: LA for Data Science](https://github.com/mikexcohen/LinAlg4DataScience/)
+
 ## DL
   - [Book: Deep Learning with Python](https://deeplearningwithpython.io/chapters/)
 
