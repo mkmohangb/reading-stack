@@ -6,8 +6,9 @@
 ## Linear Algebra
   - [Book: LA for Data Science](https://github.com/mikexcohen/LinAlg4DataScience/)
 
-## DL
+## DL/ML
   - [Book: Deep Learning with Python](https://deeplearningwithpython.io/chapters/)
+  - [Book: ML Systems](https://www.mlsysbook.ai/)
 
 ## LLM
   - [LLM from scratch book](https://github.com/rasbt/LLMs-from-scratch)
