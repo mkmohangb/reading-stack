@@ -1,5 +1,8 @@
 # reading-stack
 
+## Professional programming
+  - [Read one article from here daily](https://github.com/charlax/professional-programming)
+
 ## Programming
   - [Many hard leetcode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
 
