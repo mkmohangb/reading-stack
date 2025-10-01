@@ -5,6 +5,7 @@
 
 ## Programming
   - [Many hard leetcode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
+  - [Top Leetcode questions](https://docs.google.com/spreadsheets/d/1IdXkdgSPFls0yo8uYiAbgjFzBf6SqICV/edit?gid=1377915986#gid=1377915986)
 
 ## Linear Algebra
   - [Book: LA for Data Science](https://github.com/mikexcohen/LinAlg4DataScience/)
@@ -30,6 +31,7 @@
 
 ## GPU
   - [Cornell Virtual workshop on GPUs](https://cvw.cac.cornell.edu/gpu-architecture)
+  - [Modal GPU glossary](https://modal.com/gpu-glossary)
   - [Model scaling - how to think about GPUs](https://jax-ml.github.io/scaling-book/gpus/)
   - [HF - Ultrascale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 
