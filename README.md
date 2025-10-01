@@ -40,6 +40,7 @@
   - [Exploring OS](https://mohitmishra786.github.io/exploring-os/)
   - [Async/Await](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
   - [Book: Designing Data Intensive applications, 2nd edition](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
+  - [Good system design](https://www.seangoedecke.com/good-system-design/)
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
