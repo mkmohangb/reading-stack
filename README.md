@@ -10,9 +10,13 @@
 ## Linear Algebra
   - [Book: LA for Data Science](https://github.com/mikexcohen/LinAlg4DataScience/)
 
+## Data Science
+  - [Book: Virgilio](https://virgili0.github.io/Virgilio/)
+
 ## DL/ML
   - [Book: Deep Learning with Python](https://deeplearningwithpython.io/chapters/)
   - [Book: ML Systems](https://www.mlsysbook.ai/)
+  - [Book: Learing Deep representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
 
 ## LLM
   - [LLM from scratch book](https://github.com/rasbt/LLMs-from-scratch)
