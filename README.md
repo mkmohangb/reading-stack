@@ -3,6 +3,9 @@
 ## Professional programming
   - [Read one article from here daily](https://github.com/charlax/professional-programming)
 
+## Build your own x
+  - [build your own from scratch](https://github.com/codecrafters-io/build-your-own-x)
+
 ## Programming
   - [Many hard leetcode problems are easy constraint problems](https://buttondown.com/hillelwayne/archive/many-hard-leetcode-problems-are-easy-constraint/)
   - [Top Leetcode questions](https://docs.google.com/spreadsheets/d/1IdXkdgSPFls0yo8uYiAbgjFzBf6SqICV/edit?gid=1377915986#gid=1377915986)
