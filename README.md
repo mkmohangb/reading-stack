@@ -35,6 +35,7 @@
     
 ## Python
   - [First course on DS in Python](https://donsheehy.github.io/datastructures/fullbook.pdf)
+  - [Programming Abstractions in Python](https://abstractions-in-python.github.io/)
 
 ## GPU
   - [Cornell Virtual workshop on GPUs](https://cvw.cac.cornell.edu/gpu-architecture)
@@ -51,3 +52,6 @@
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
+
+## Oncology
+  - [mCode deep dive](https://confluence.hl7.org/spaces/COD/pages/204278446/Presentation+mCODE+Modeling+Best+Practices+and+Deep+Dive)
