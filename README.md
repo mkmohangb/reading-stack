@@ -44,6 +44,7 @@
   - [HF - Ultrascale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 
 ## Systems
+  - [What is Memory in 4 parts](https://www.bytelab.codes/what-is-memory-part-1/)
   - [Dive into Systems](https://diveintosystems.org/singlepage/)
   - [Exploring OS](https://mohitmishra786.github.io/exploring-os/)
   - [Async/Await](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
