@@ -3,6 +3,9 @@
 ## Professional programming
   - [Read one article from here daily](https://github.com/charlax/professional-programming)
 
+## Assembly
+  - [Compiling assembly from scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
+
 ## Build your own x
   - [build your own from scratch](https://github.com/codecrafters-io/build-your-own-x)
 
