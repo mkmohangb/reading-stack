@@ -30,7 +30,7 @@
   - [Book: ML Systems](https://www.mlsysbook.ai/)
   - [Book: Learing Deep representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
   - [Bug that taught me about Pytorch more than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
-  - 
+  - [Hands on ML with scikit learn and pytorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
 
 ## LLM
   - [LLM from scratch book](https://github.com/rasbt/LLMs-from-scratch)
@@ -41,6 +41,11 @@
   - [AI: It's all about inference now](https://queue.acm.org/detail.cfm?id=3733701)
   - [Everything about Transformers](https://www.krupadave.com/articles/everything-about-transformers)
   - [Intro to quantization in LLMs](https://prathamgrover.substack.com/p/intro-to-quantization-in-llms)
+  - [prompt caching 10x cheaper LLM tokens](https://ngrok.com/blog/prompt-caching/)
+  - [HF SMOL training playbook](https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook)
+
+## OCR
+  - [supercharge ocr with open models](https://huggingface.co/blog/ocr-open-models)
 
 ## Embeddings
   - [LIMIT - theoretical limitations of embedding based retrieval](https://github.com/google-deepmind/limit)
@@ -49,6 +54,7 @@
 ## Python
   - [First course on DS in Python](https://donsheehy.github.io/datastructures/fullbook.pdf)
   - [Programming Abstractions in Python](https://abstractions-in-python.github.io/)
+  - [Debugging book](https://www.debuggingbook.org/)
 
 ## GPU
   - [Cornell Virtual workshop on GPUs](https://cvw.cac.cornell.edu/gpu-architecture)
@@ -72,6 +78,7 @@
   - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
   - [sendfile syscall](https://jvns.ca/blog/2016/01/23/sendfile-a-new-to-me-system-call/)
   - [Tiny programming systems course](https://d3s.mff.cuni.cz/teaching/nprg077/)
+  - [How RPC actually works](https://newsletter.systemdesign.one/p/how-rpc-works)
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
