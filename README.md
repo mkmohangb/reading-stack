@@ -79,6 +79,7 @@
   - [sendfile syscall](https://jvns.ca/blog/2016/01/23/sendfile-a-new-to-me-system-call/)
   - [Tiny programming systems course](https://d3s.mff.cuni.cz/teaching/nprg077/)
   - [How RPC actually works](https://newsletter.systemdesign.one/p/how-rpc-works)
+  - [Redis 101](https://mrinalxdev.github.io/mrinalxblogs/blogs/redis.html)
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
