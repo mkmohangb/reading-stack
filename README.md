@@ -7,6 +7,7 @@
 
 ## Assembly
   - [Compiling assembly from scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
+  - [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html)
 
 ## Build your own x
   - [build your own from scratch](https://github.com/codecrafters-io/build-your-own-x)
@@ -28,6 +29,8 @@
   - [Book: Deep Learning with Python](https://deeplearningwithpython.io/chapters/)
   - [Book: ML Systems](https://www.mlsysbook.ai/)
   - [Book: Learing Deep representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/)
+  - [Bug that taught me about Pytorch more than years of using it](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
+  - 
 
 ## LLM
   - [LLM from scratch book](https://github.com/rasbt/LLMs-from-scratch)
@@ -37,6 +40,7 @@
   - [LLM from scratch using Middle school math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)
   - [AI: It's all about inference now](https://queue.acm.org/detail.cfm?id=3733701)
   - [Everything about Transformers](https://www.krupadave.com/articles/everything-about-transformers)
+  - [Intro to quantization in LLMs](https://prathamgrover.substack.com/p/intro-to-quantization-in-llms)
 
 ## Embeddings
   - [LIMIT - theoretical limitations of embedding based retrieval](https://github.com/google-deepmind/limit)
