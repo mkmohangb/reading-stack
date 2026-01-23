@@ -53,6 +53,10 @@
   - [Async/Await](https://lucumr.pocoo.org/2025/7/26/virtual-threads/)
   - [Book: Designing Data Intensive applications, 2nd edition](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
   - [Good system design](https://www.seangoedecke.com/good-system-design/)
+  - [Canine.sh open source alternative to Heroku, Render...](https://canine.sh/)
+  - [Accidental CTO](https://github.com/subhashchy/The-Accidental-CTO)
+  - [Reversing for everyone](https://0xinfection.xyz/reversing/)
+  - [Reverse Engg. fundamentals](https://www.notion.so/3ch0/Reverse-Engineering-Fundamentals-297d05a447d580f6bf19f1e1248473e1)
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
@@ -63,3 +67,8 @@
 ## Interviews
   - [Devprep](https://jswarrior.com/)
   - [Interviewkit](https://www.interviewkit.org/interview-prep)
+
+## Agents
+  - [Intro to agents](https://www.kaggle.com/whitepaper-introduction-to-agents)
+  - [Advent of Agents](https://adventofagents.com/)
+  - 
