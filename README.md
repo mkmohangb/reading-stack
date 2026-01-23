@@ -2,6 +2,7 @@
 
 ## Professional programming
   - [Read one article from here daily](https://github.com/charlax/professional-programming)
+  - [Julio Biason - things I learnt the hard way](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
 
 ## Assembly
   - [Compiling assembly from scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
@@ -57,6 +58,8 @@
   - [Accidental CTO](https://github.com/subhashchy/The-Accidental-CTO)
   - [Reversing for everyone](https://0xinfection.xyz/reversing/)
   - [Reverse Engg. fundamentals](https://www.notion.so/3ch0/Reverse-Engineering-Fundamentals-297d05a447d580f6bf19f1e1248473e1)
+  - [Caching](https://planetscale.com/blog/caching)
+  - [OO sw dev course notes](https://amolven.com/static/Notes/CS_246_CN.pdf)
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
