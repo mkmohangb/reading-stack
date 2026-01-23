@@ -3,6 +3,7 @@
 ## Professional programming
   - [Read one article from here daily](https://github.com/charlax/professional-programming)
   - [Julio Biason - things I learnt the hard way](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
+  - [comb shaped skills](https://paulsyng.com/blog/forget-the-t-shaped-skillset-try-being-a-comb-instead/)  
 
 ## Assembly
   - [Compiling assembly from scratch](https://keleshev.com/compiling-to-assembly-from-scratch/)
@@ -16,6 +17,9 @@
 
 ## Linear Algebra
   - [Book: LA for Data Science](https://github.com/mikexcohen/LinAlg4DataScience/)
+
+## Mathematics
+  - [Exploring Mathematics with Python - Arthur Engel & Andrew Davison](https://coe.psu.ac.th/ad/explore)
 
 ## Data Science
   - [Book: Virgilio](https://virgili0.github.io/Virgilio/)
@@ -61,6 +65,8 @@
   - [Caching](https://planetscale.com/blog/caching)
   - [OO sw dev course notes](https://amolven.com/static/Notes/CS_246_CN.pdf)
   - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
+  - [sendfile syscall](https://jvns.ca/blog/2016/01/23/sendfile-a-new-to-me-system-call/)
+  - [Tiny programming systems course](https://d3s.mff.cuni.cz/teaching/nprg077/)
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
@@ -75,4 +81,4 @@
 ## Agents
   - [Intro to agents](https://www.kaggle.com/whitepaper-introduction-to-agents)
   - [Advent of Agents](https://adventofagents.com/)
-  - 
+  - [DSPy source code exposed](https://www.data-monger.com/syndeblog/the-most-damning-dspy-code-actual-source-code-exposed)
