@@ -36,6 +36,7 @@
   - [Visual guide to quantization and more](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization)
   - [LLM from scratch using Middle school math](https://towardsdatascience.com/understanding-llms-from-scratch-using-middle-school-math-e602d27ec876/)
   - [AI: It's all about inference now](https://queue.acm.org/detail.cfm?id=3733701)
+  - [Everything about Transformers](https://www.krupadave.com/articles/everything-about-transformers)
 
 ## Embeddings
   - [LIMIT - theoretical limitations of embedding based retrieval](https://github.com/google-deepmind/limit)
