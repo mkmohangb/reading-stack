@@ -60,6 +60,7 @@
   - [Reverse Engg. fundamentals](https://www.notion.so/3ch0/Reverse-Engineering-Fundamentals-297d05a447d580f6bf19f1e1248473e1)
   - [Caching](https://planetscale.com/blog/caching)
   - [OO sw dev course notes](https://amolven.com/static/Notes/CS_246_CN.pdf)
+  - [Malloc tutorial](https://danluu.com/malloc-tutorial/)
 
 ## Async architectures
   - [Book: Building Microservices](https://samnewman.io/books/building_microservices_2nd_edition/)
