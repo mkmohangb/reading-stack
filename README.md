@@ -56,6 +56,11 @@
   - [Programming Abstractions in Python](https://abstractions-in-python.github.io/)
   - [Debugging book](https://www.debuggingbook.org/)
 
+## Clojure
+  - [Clojure for the brave and true](https://www.braveclojure.com/clojure-for-the-brave-and-true/)
+  - [Animated introduction to Clojure](https://markm208.github.io/cljbook/)
+  - [How to code simple data](https://www.edx.org/learn/coding/university-of-british-columbia-how-to-code-simple-data)
+    
 ## GPU
   - [Cornell Virtual workshop on GPUs](https://cvw.cac.cornell.edu/gpu-architecture)
   - [Modal GPU glossary](https://modal.com/gpu-glossary)
