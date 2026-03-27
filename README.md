@@ -68,6 +68,7 @@
   - [HF - Ultrascale Playbook](https://huggingface.co/spaces/nanotron/ultrascale-playbook)
 
 ## Systems
+  - [Build your own cloud](https://wiki.futo.org/index.php/Introduction_to_a_Self_Managed_Life:_a_13_hour_%26_28_minute_presentation_by_FUTO_software#)
   - [What is Memory in 4 parts](https://www.bytelab.codes/what-is-memory-part-1/)
   - [Dive into Systems](https://diveintosystems.org/singlepage/)
   - [Exploring OS](https://mohitmishra786.github.io/exploring-os/)
