@@ -1,5 +1,9 @@
 # reading-stack
 
+## LLM-NOW
+  - [work at frontier lab](https://www.workatafrontierlab.com/courses)
+  - [Frontier systems](https://cs153.stanford.edu/)
+    
 ## Professional programming
   - [Read one article from here daily](https://github.com/charlax/professional-programming)
   - [Julio Biason - things I learnt the hard way](https://blog.juliobiason.me/thoughts/things-i-learnt-the-hard-way/)
@@ -101,3 +105,14 @@
   - [Intro to agents](https://www.kaggle.com/whitepaper-introduction-to-agents)
   - [Advent of Agents](https://adventofagents.com/)
   - [DSPy source code exposed](https://www.data-monger.com/syndeblog/the-most-damning-dspy-code-actual-source-code-exposed)
+
+## Claude Code
+  - [token efficiency](https://github.com/drona23/claude-token-efficient)
+  - [Karpathy skills](https://github.com/forrestchang/andrej-karpathy-skills)
+  - [Claude Mem](https://github.com/thedotmack/claude-mem)
+  - [Job search](https://github.com/santifer/career-ops)
+
+## FHIR
+  - [EPIC on FHIR](https://fhir.epic.com/)
+  - [FHIR fundamentals](https://medblocks.com/training/courses/fhir-fundamentals)
+
