@@ -106,6 +106,7 @@
   - [Intro to agents](https://www.kaggle.com/whitepaper-introduction-to-agents)
   - [Advent of Agents](https://adventofagents.com/)
   - [DSPy source code exposed](https://www.data-monger.com/syndeblog/the-most-damning-dspy-code-actual-source-code-exposed)
+  - [AI Agent stack](https://x.com/Av1dlive/status/2044453102703841645)
 
 ## Claude Code
   - [token efficiency](https://github.com/drona23/claude-token-efficient)
