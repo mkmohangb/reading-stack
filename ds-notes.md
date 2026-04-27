@@ -5,3 +5,8 @@
   - sharing pid namespace
     - ```docker run -d <my-app-image>```
     - ```docker run --pid=container:<APP_CONTAINER_ID>  -p 8080:8080    brendanburns/topz:db0fa58 /server```
+
+  - Designing sidecars for modularity and reusability
+    - Parameterizing your containers
+    - Creating the API surface of your container
+    - Documenting the operation of your container
